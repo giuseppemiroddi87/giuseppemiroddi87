@@ -16,8 +16,8 @@ Sto per iniziare:
 
  Connettiti con me: 
  <br>
- <a href="https://www.linkedin.com/in/giuseppe-miroddi-57222233b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo"></a> <br>
- <a href="https://www.facebook.com/giuseppe.miroddi.9"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="FB-logo"/>
+ <a href="https://www.linkedin.com/in/giuseppe-miroddi-57222233b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo"></a> <br>
+ <a href="https://www.facebook.com/giuseppe.miroddi.9" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="FB-logo"/>
  <br>
  <br>
 
