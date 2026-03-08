@@ -19,6 +19,7 @@ Attualmente sto costruendo progetti per migliorare le mie competenze nello svilu
 Il prossimo passo del mio percorso sarà iniziare a lavorare con:
 
 - <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo"/>
+- <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt ="java-logo"/>
 
 <br>
 
