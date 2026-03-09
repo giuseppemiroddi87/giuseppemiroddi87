@@ -2,7 +2,7 @@
 
 Ciao! Sono **Giuseppe Miroddi**.
 
-Attualmente sto affrontando una **transizione di carriera verso lo sviluppo web** e sto studiando programmazione attraverso il percorso **DevClub**, dove realizzo diversi progetti per sviluppare competenze pratiche nello sviluppo **front-end**.
+Attualmente sto affrontando una **transizione di carriera verso lo sviluppo web** e sto studiando programmazione attraverso il percorso **DevClub**, dove realizzo diversi progetti per sviluppare competenze pratiche nello sviluppo **front-end** e prossimamente anche **back-end**.
 
 In questo periodo sto lavorando principalmente con:
 
